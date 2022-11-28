@@ -1,4 +1,6 @@
 # Climatescope
+> Archived version of the 2021 edition of the Global Climatescope. See this repo for the latest version: https://github.com/climatescope/climatescope.org
+
 The [Climatescope](http://global-climatescope.org) is a unique market-by-market assessment, interactive report and index that evaluates the investment climate for climate-related investment worldwide.
 
 ![Homepage of the climatescope 2019](https://user-images.githubusercontent.com/1090606/69560317-75e13200-0fa3-11ea-988d-86bbedfdd333.png)

@@ -1,11 +1,11 @@
-# Deploy the site to AWS S3 on a push to the 'main' branch
+# Deploy the site to GH Pages on a push to the 'main' branch
 
-name: Deploy GH Pages
+name: Deploy to GH Pages
 
 on:
   push:
     branches:
-    - 'master'
+    - 'main'
 
 env:
   NODE: 16
@@ -73,4 +73,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
           publish_branch: gh-pages
-          cname: global-climatescope.org
+          cname: 2021.global-climatescope.org

@@ -1,10 +1,10 @@
 {
   "name": "climatescope",
   "version": "5.0.1",
-  "description": "Climatescope website",
+  "description": "2021 Climatescope website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/climatescope/climatescope.org.git"
+    "url": "https://github.com/climatescope/climatescope-2021.org.git"
   },
   "author": {
     "name": "Development Seed",
@@ -12,9 +12,9 @@
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/climatescope/climatescope.org/issues"
+    "url": "https://github.com/climatescope/climatescope-2021/issues"
   },
-  "homepage": "http://global-climatescope.org/",
+  "homepage": "http://2021.global-climatescope.org/",
   "scripts": {
     "develop": "npm run buildNavigation && npm run prepareImages && next",
     "build": "npm run buildNavigation && next build",
